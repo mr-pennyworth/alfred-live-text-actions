@@ -1,0 +1,2 @@
+pygments==2.18.0
+pyobjc==10.3.1
